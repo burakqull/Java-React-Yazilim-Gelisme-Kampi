@@ -3,7 +3,7 @@ public class  CourseManager {
 
 
     public void programaDahilOl() {
-        System.out.println("porgrama dahil oldunuz");
+        System.out.println("programa dahil oldunuz");
     }
 
     public void oncekiDers() {
